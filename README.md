@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @caziliot
-- 👀 I’m interested in web development, and integration of web apps with music related apps and libraries.
+- 👀 I’m interested in web development, and learning how to create simple solutions using web and app development. 
 - 🌱 I’m currently learning Full stack web development.
-- 💞️ I’m looking for opportunities as a junior web developer
+- 💞️ I’m looking for opportunities as a junior full stack Ruby on Rails developer.
 - 📫 How to reach me: camij3@gmail.com
 
 <!---
